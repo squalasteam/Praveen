@@ -1,0 +1,20 @@
+<!--basic html tags-->
+<html>
+	<head>
+		<title>Title tag</title>
+	</head>
+	<body>
+		<h1>Main Heaading tag</h1>
+		<p>Paragraph tag</p>
+		<a href="#">Anchor tag </a>
+		<div>Container element tag</div>
+		<span>Span is a in line element tag</span>
+		<button>Button tag</button>
+		<form action="#" method="POST">This is form tag </form>
+		<input type="text" >input tag
+		<lable>lable tag</lable>
+		
+	</body>
+	
+
+</html>
