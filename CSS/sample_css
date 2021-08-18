@@ -1,0 +1,11 @@
+.body{
+	background-color:blue;
+}
+.p{
+	font-family:normal;
+	font-size:20px;
+}
+.h1{
+	color:gray;
+	font-size:20px;
+}
